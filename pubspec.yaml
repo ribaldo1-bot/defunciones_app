@@ -14,7 +14,7 @@ dependencies:
   uuid: ^4.4.0
   pdf: ^3.10.8
   path_provider: ^2.1.2
-  share_plus: ^7.2.1
+  share_plus: ^10.0.0
   universal_html: ^2.3.0
   flutter_localizations:
     sdk: flutter
